@@ -1,0 +1,7 @@
+streamlit
+faiss-cpu
+numpy
+langchain-openai
+langchain-community
+pypdf2
+pymupdf
