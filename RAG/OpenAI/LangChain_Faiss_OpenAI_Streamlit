@@ -1,0 +1,1 @@
+A simple RAG application using LangChain framework, Faiss Vector store, OpenAI LLM and Streamlit UI.
