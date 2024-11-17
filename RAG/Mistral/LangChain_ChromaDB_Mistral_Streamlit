@@ -1,0 +1,3 @@
+This folder has the app.py file and requirements.txt for RAG implementation using Langchain, Mistral LLM, 
+ChromaDB as vector store on streamlit ui. Have your paid Mistral AI API key ready to use it in your environment 
+variable.
