@@ -1,0 +1,9 @@
+streamlit
+python-dotenv
+numpy
+langchain
+langchain-mistralai
+chromadb
+pypdf2
+langchain_community
+mistralai==0.4.2
