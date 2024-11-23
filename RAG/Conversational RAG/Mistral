@@ -1,0 +1,7 @@
+Conversational Rag is a mechanisim to allow the QnA with PDFs (basic RAG) to have the capability to remeber the previous QnAs and use the chat history in the current thinking for a seamless chat experience.
+
+I am using Mistral AI and InMemoryVectorStore via Langchain Framework to implement conversational RAG.
+
+There is a concept of trimming the messages in the history so that the context window of the chat model is respected. The concept is not covered in this implementation.
+
+Refer: https://python.langchain.com/docs/how_to/trim_messages/
