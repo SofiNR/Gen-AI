@@ -1,0 +1,3 @@
+,Model,Mean Score,Standard Deviation
+0,llama3.2:3b,0.56,0.06431707392770002
+1,mistral:7b,0.59,0.08247579509925135
