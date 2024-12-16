@@ -4,7 +4,7 @@ Install the package
 
 Go to command prompt and give the command ollama to see the help list for ollama
 
-Go to ollama.com/models and search the desired model and copy the command to run
+Go to ollama.com/search and search the desired model and copy the command to run
 
 Come to your command prompt and execute it to download the model and start chatting with it
 
