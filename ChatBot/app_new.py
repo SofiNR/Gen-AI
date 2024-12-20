@@ -78,10 +78,10 @@ if __name__ == "__main__":
                     for message in chat_history:
                         if message.type == 'human':
                             #msg(message.content, is_user=True, avatar_style=st.image('santa-claus.png'))
-                            msg(message.content, is_user=True, avatar_style=':material/featured_seasonal_and_gifts:')
+                            msg(message.content, is_user=True)
                         else:
                             #msg(message.content, avatar_style=st.image('santa-claus.png'))
-                            msg(message.content, avatar_style=':material/featured_seasonal_and_gifts:')
+                            msg(message.content)
             
                 
             
