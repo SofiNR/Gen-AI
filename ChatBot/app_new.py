@@ -3,7 +3,7 @@ from streamlit_chat import message as msg
 
 st.snow()
 
-st.audio('winter-day-christmas-holidays-270802.mp3', format="audio/wav", start_time=0, sample_rate=None, end_time=None, loop=True, autoplay=True)
+#st.audio('winter-day-christmas-holidays-270802.mp3', format="audio/wav", start_time=0, sample_rate=None, end_time=None, loop=True, autoplay=True)
 st.title('Welcome to North Pole, Chat with Santa!')
 
 
